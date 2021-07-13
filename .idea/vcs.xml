@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/model/bert-base-multilingual-cased" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/model/bert-base-spanish-wwm-uncased" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/model/roberta-large" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/model/xlm-roberta-large" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xlm-roberta-large" vcs="Git" />
+  </component>
+</project>
